@@ -1,1 +1,1 @@
-[{"username": "islam", "email": "fanwiss.cn@gmail.com", "password": "islam201021", "friends": [], "requests": []}, {"username": "chatterly", "email": "chatterlyver@gmail.com", "password": "islam201021", "friends": [], "requests": ["islam"]}]
+[{"username": "islam", "email": "fanwiss.cn@gmail.com", "password": "islam201021", "friends": ["chatterly"], "requests": []}, {"username": "chatterly", "email": "chatterlyver@gmail.com", "password": "islam201021", "friends": ["islam"], "requests": []}]
